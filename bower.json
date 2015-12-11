@@ -1,0 +1,22 @@
+{
+  "name": "angular-esc-key",
+  "version": "0.0.1",
+  "homepage": "http://deltreey.github.io/angular-esc-key/",
+  "authors": [
+    "deltreey <suicidolt@gmail.com>"
+  ],
+  "description": "Add this attribute to your element to trigger angular actions when the escape key is pressed.",
+  "main": "esc-key.js",
+  "keywords": [
+    "angular-esc-key",
+    "esc-key",
+    "escape"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "bower_components"
+  ],
+  "dependencies": {
+    "angular": "1.x"
+  }
+}

@@ -8,7 +8,7 @@ angular.module('esc-key', [])
           scope.$apply(function (){
             scope.$eval(attrs.escKey);
           });
-
+          event.stopPropagation();
           event.preventDefault();
         }
       });
